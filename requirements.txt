@@ -1,4 +1,7 @@
 streamlit
 openai
 uvicorn
+gunicorn
 fpdf
+paypalrestsdk
+python-dotenv
